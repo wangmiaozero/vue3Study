@@ -1,10 +1,10 @@
 <template>
-	<Demo @hello="showHelloMsg" msg="你好啊" school="尚硅谷">
+	<Demo @hello="showHelloMsg" msg="你好啊" school="兔子零">
 		<template v-slot:qwe>
-			<span>尚硅谷</span>
+			<span>兔子零</span>
 		</template>
 		<template v-slot:asd>
-			<span>尚硅谷</span>
+			<span>兔子零</span>
 		</template>
 	</Demo>
 </template>

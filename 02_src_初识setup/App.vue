@@ -29,7 +29,7 @@
 		},
 		methods: {
 			sayWelcome(){
-				alert('欢迎来到尚硅谷学习')
+				alert('兔子零学习')
 			},
 			test1(){
 				console.log(this.sex)
@@ -67,7 +67,7 @@
 			}
 
 			//返回一个函数（渲染函数）
-			// return ()=> h('h1','尚硅谷')
+			// return ()=> h('h1','兔子零')
 		}
 	}
 </script>
